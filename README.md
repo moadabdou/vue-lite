@@ -1,2 +1,7 @@
-# vue-lite
-vue-lite a lightwight vue cli for low computers
+# Vue Lite 
+
+this is a lightwight vue-cli for low computers 
+
+
+![](logo/logo.png)
+
