@@ -1,5 +1,5 @@
 
-const config = require('../vuelite.config'), 
+const config = require(process.cwd()+'/vuelite.config'), 
     system = require('./lib/system')()
     watcher = require('./lib/watcher'), 
     boxen =  require('boxen'), 
