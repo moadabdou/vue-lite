@@ -3,5 +3,5 @@
 this is a lightwight vue-cli for low computers 
 
 
-![](logo/logo.png)
+![](https://github.com/moadabdou/vue-lite/blob/main/logo.png)
 
